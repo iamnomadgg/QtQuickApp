@@ -14,7 +14,9 @@ qt_add_executable(appQtQuickExamples
 qt_add_qml_module(appQtQuickExamples
     URI QtQuickExamples
     VERSION 1.0
-    QML_FILES main.qml 
+    QML_FILES main.qml
+    QML_FILES AnimatedImage.qml
+    image-animated.gif
 )
 
 set_target_properties(appQtQuickExamples PROPERTIES
