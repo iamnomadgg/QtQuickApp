@@ -14,7 +14,7 @@ Window {
             id: animation
             x: 100; y: 100
             width: 200; height: 200
-            source: "image-animated.gif"
+            source: "img_animated.gif"
         }
 
         Rectangle {
