@@ -16,6 +16,7 @@ qt_add_qml_module(appQtQuickExamples
     VERSION 1.0
     QML_FILES main.qml
     QML_FILES AnimatedImage.qml
+    QML_FILES Opacity.qml
     image-animated.gif
 )
 
