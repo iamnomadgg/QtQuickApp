@@ -18,10 +18,13 @@ qt_add_qml_module(appQtQuickExamples
     QML_FILES AnimatedImage.qml
     QML_FILES Opacity.qml
     QML_FILES AnalogClock.qml
+    QML_FILES Gradients.qml
     img_animated.gif
     img_analog_clock_background.png
     img_analog_clock_largeArm.png
     img_analog_clock_smallArm.png
+    img_gradient_diagonal.png
+    img_gradient_vertical.png
 )
 
 set_target_properties(appQtQuickExamples PROPERTIES
