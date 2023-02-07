@@ -4,7 +4,7 @@ Window {
     width: root.width
     height: root.height
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Animated Image")
     Rectangle {
         id: root
         width: 400; height: 400
