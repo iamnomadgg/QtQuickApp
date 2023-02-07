@@ -19,6 +19,7 @@ qt_add_qml_module(appQtQuickExamples
     QML_FILES Opacity.qml
     QML_FILES AnalogClock.qml
     QML_FILES Gradients.qml
+    MouseAndTouch.qml
     img_animated.gif
     img_analog_clock_background.png
     img_analog_clock_largeArm.png
