@@ -23,6 +23,8 @@ qt_add_qml_module(appQtQuickExamples
     QML_FILES PinchAndFlick.qml
     QML_FILES Multitouch.qml
     QML_FILES KeyNavigation.qml
+    QML_FILES LoaderLineEdit.qml
+    QML_FILES Loader.qml
     img_animated.gif
     img_analog_clock_background.png
     img_analog_clock_largeArm.png
